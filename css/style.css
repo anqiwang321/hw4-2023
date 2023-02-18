@@ -78,9 +78,9 @@ a.skip{
 
   /* Requirement 9 code here -- Do not remove this comment. */
   .text {
-    text-align: center;
-    max-height: 30vh;
-    overflow-y: scroll;
+    align-self: center;
+    max-height: 40vh;
+    overflow: scroll;
   }
 
   /*Add the media query here.  Make sure to */
