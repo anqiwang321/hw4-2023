@@ -82,9 +82,9 @@ img {
 
 /* Requirement 9 code here -- Do not remove this comment. */
 .text {
-  text-align: center;
+  align-self: center;
   max-height: 30vh;
-  overflow-y: scroll;
+  overflow: scroll;
 }
 
 @media screen and (min-width: 700px) {
