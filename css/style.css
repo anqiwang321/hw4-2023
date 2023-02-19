@@ -87,7 +87,7 @@ img {
   overflow: scroll;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 800px) {
   nav{
     padding-top: 35px;
     /* Requirement 10 code here -- Do not remove this comment. */
